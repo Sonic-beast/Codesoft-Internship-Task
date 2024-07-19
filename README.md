@@ -60,7 +60,7 @@ A simplified simulation of an ATM (Automated Teller Machine), allowing users to 
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)<sonic-beast>/java-projects.git
+   git clone [https://github.com/](https://github.com/)sonic-beast/java-projects.git
 
 
 
